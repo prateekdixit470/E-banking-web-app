@@ -26,9 +26,9 @@ A secure and user-friendly web-based banking system that allows users to manage 
 
 <!-- Add your screenshots like this -->
 
-![Dashboard](screenshots/dashboard.png)
-![Login](screenshots/login.png)
+## 🧑‍💼 Admin Dashboard
 
+![Admin](admin.png)
 ---
 
 ## ⚙️ Installation & Setup
