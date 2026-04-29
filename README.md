@@ -22,14 +22,28 @@ A secure and user-friendly web-based banking system that allows users to manage 
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-<!-- Add your screenshots like this -->
-
-## 🧑‍💼 Admin Dashboard
-
+### 🧑‍💼 Admin Dashboard
 ![Admin](admin.png)
----
+
+### 👤 Account Details
+![Account Details](Account_Details.png)
+
+
+### 🏧 ATM Simulator
+![ATM](atm.png)
+
+### 👥 Customers
+![Customers](Customers.png)
+
+
+
+### 🏠 Home Page
+![Home](Home.png)
+
+### 💸 Transactions
+![Transactions](Trans.png)
 
 ## ⚙️ Installation & Setup
 
